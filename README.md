@@ -134,10 +134,9 @@ This project is licensed under the [MIT License](./LICENSE). Feel free to use, d
 ## Contact / Credits
 
 **Created by:**  
-- [Friend #1](https://github.com/Friend1)  
-- [Friend #2](https://github.com/Friend2)  
-- [Friend #3](https://github.com/Friend3)  
-- [You](https://github.com/YourUserName)
+- [Adir Buskila](https://github.com/YourUserName)
+- [Dor XOR](https://github.com/Friend1)  
+- [Nataf Haze Of](https://github.com/Friend2)  
 
 Feel free to open an [issue](./../../issues) or reach out if you have any questions or suggestions!
 
